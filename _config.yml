@@ -51,13 +51,13 @@ leancloud:
 
 # 需要保证leancloud.count为true
 welcome: 
-  enable: false
+  enable: true
   interval: 30
 
 # 需要保证leancloud.comment为false
 disqus: 
   enable: true
-  id: 
+  id: https-yunv-fun
 
 # 需要保证leancloud.count为false
 busuanzi: false
