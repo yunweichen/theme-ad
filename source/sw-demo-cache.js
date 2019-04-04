@@ -1,4 +1,4 @@
-const VERSION = 'v6'
+const VERSION = 'v7'
 
 // 添加缓存
 self.addEventListener('install', event => {
