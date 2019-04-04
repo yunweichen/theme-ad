@@ -56,7 +56,7 @@ welcome:
 
 # 需要保证leancloud.comment为false
 disqus: 
-  enable: true
+  enable: false
   id: https-yunv-fun
 
 # 需要保证leancloud.count为false
